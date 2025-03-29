@@ -9,7 +9,7 @@ import json
 import random
 
 # <API Key>填入自己的的api
-client = OpenAI(api_key="<API Key>", base_url="https://api.hunyuan.cloud.tencent.com/v1")
+client = OpenAI(api_key="sk-QXLh62i4NMMWaz61fU47oFLCpT3gRb3N4MLFuEipgCNoL8lx", base_url="https://api.hunyuan.cloud.tencent.com/v1")
 
 def get_answer(question, options):
 
